@@ -14,5 +14,20 @@ Designed and implemented an end-to-end Swiggy Sales Analysis solution using SQL 
 - dim_dish (dish-level details)
 
 
+  Steps Involved (SQL & ETL Activities):
+  - Imported large CSV datasets into MySQL.
+  - Cleaned and standardized data (date formats, numeric values, null handling, remove duplicate data).
+  - Created the Dimension table and the fact table.
+ 
+## Analysis and Insights:
+- Performed time-based analysis (daily, monthly, quarterly sales trends).
+- Analyzed location-wise demand across cities and areas.
+- Identified top restaurants and dishes based on revenue and ratings.
+- Evaluated category contribution to overall sales.
+- Assessed customer satisfaction using ratings and rating counts.
+
+
+
+
 
 
