@@ -1,2 +1,5 @@
 # Swiggy_casestudy_SQL
-Performed end-to-end Swiggy sales analysis using SQL by designing fact and dimension tables, optimizing complex joins, and generating actionable insights on sales trends, restaurant performance, and customer behavior.
+📊 Swiggy Sales Analysis Using SQL (Star Schema Implementation)
+Project Overview
+
+Designed and implemented an end-to-end Swiggy Sales Analysis solution using SQL by building a star schema data model consisting of fact and dimension tables. The project involved transforming raw CSV data into structured analytical tables to enable scalable, high-performance querying and business insights.
