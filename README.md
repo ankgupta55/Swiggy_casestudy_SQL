@@ -17,10 +17,13 @@ Designed and implemented an end-to-end Swiggy Sales Analysis solution using SQL 
 - dim_dish (dish-level details)
 
 
-  Steps Involved (SQL & ETL Activities):
-  - Imported large CSV datasets into MySQL.
-  - Cleaned and standardized data (date formats, numeric values, null handling, and removed duplicate data).
-  - Created the Dimension table and the fact table.
+✅ Resume Bullets (4–5 Strong & ATS-Friendly)
+
+Designed and implemented a star schema data model by creating fact and dimension tables (date, location, restaurant, category, dish) using SQL.
+Performed ETL operations by importing large CSV datasets into MySQL and transforming raw data into analytics-ready tables.
+Loaded data into the fact table using optimized INSERT…SELECT queries with multiple joins, ensuring referential integrity.
+Improved query performance by eliminating duplicate dimension records, adding indexes, and batching inserts.
+Analyzed sales trends, top restaurants, popular dishes, and customer ratings using advanced SQL aggregations.
  
 ## Analysis and Insights:
 - Performed time-based analysis (daily, monthly, quarterly sales trends).
@@ -29,38 +32,7 @@ Designed and implemented an end-to-end Swiggy Sales Analysis solution using SQL 
 - Evaluated category contribution to overall sales.
 - Assessed customer satisfaction using ratings and rating counts.
 
- # KPIs:
-## KPI Development
-Once the schema is built, compute core performance indicators:
-Basic KPIs
-•	Total Orders
-•	Total Revenue (INR Million)
-•	Average Dish Price
-•	Average Rating
-Deep-Dive Business Analysis
-Date-Based Analysis
-•	Monthly order trends
-•	Quarterly order trends
-•	Year-wise growth
-•	Day-of-week patterns
-Location-Based Analysis
-•	Top 10 cities by order volume
-•	Revenue contribution by states
-Food Performance
-•	Top 10 restaurants by orders
-•	Top categories (Indian, Chinese, etc.)
-•	Most ordered dishes
-•	Cuisine performance → Orders + Avg Rating
-Customer Spending Insights
-Buckets of customer spend:
-•	Under 100
-•	100–199
-•	200–299
-•	300–499
-•	500+
-With total order distribution across these ranges.
-Ratings Analysis
-Distribution of dish ratings from 1–5.
+
 
 
 
