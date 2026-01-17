@@ -1,5 +1,6 @@
 # Swiggy_casestudy_SQL
-<a href="https://github.com/ankgupta55/Swiggy_casestudy_SQL/blob/main/swiggy_images.png">Swiggy</a>
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/e412c455-1aa2-46b1-b448-c86e3416de5c" />
+
 
 📊 Swiggy Sales Analysis Using SQL (Star Schema Implementation)
 Project Overview
