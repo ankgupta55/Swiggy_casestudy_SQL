@@ -29,6 +29,40 @@ Designed and implemented an end-to-end Swiggy Sales Analysis solution using SQL 
 - Evaluated category contribution to overall sales.
 - Assessed customer satisfaction using ratings and rating counts.
 
+ # KPIs:
+## KPI Development
+Once the schema is built, compute core performance indicators:
+Basic KPIs
+•	Total Orders
+•	Total Revenue (INR Million)
+•	Average Dish Price
+•	Average Rating
+Deep-Dive Business Analysis
+Date-Based Analysis
+•	Monthly order trends
+•	Quarterly order trends
+•	Year-wise growth
+•	Day-of-week patterns
+Location-Based Analysis
+•	Top 10 cities by order volume
+•	Revenue contribution by states
+Food Performance
+•	Top 10 restaurants by orders
+•	Top categories (Indian, Chinese, etc.)
+•	Most ordered dishes
+•	Cuisine performance → Orders + Avg Rating
+Customer Spending Insights
+Buckets of customer spend:
+•	Under 100
+•	100–199
+•	200–299
+•	300–499
+•	500+
+With total order distribution across these ranges.
+Ratings Analysis
+Distribution of dish ratings from 1–5.
+
+
 
 
 
